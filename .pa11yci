@@ -1,0 +1,9 @@
+{
+	"urls": [
+		{
+			"url": "https://cdpn.io/simshaun/debug/MWwXKvZ/PNkvYKWEYjOA",
+			"runners": ["axe"],
+			"standard": "WCAG2AA"
+		}
+	]
+}

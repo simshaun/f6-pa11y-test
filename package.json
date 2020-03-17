@@ -1,0 +1,14 @@
+{
+  "name": "f6-pa11y-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pa11y-ci": "^2.3.0"
+  }
+}
